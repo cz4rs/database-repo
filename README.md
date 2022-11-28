@@ -1,3 +1,3 @@
-# database-repo
+# kokkos-benchmark-results
 
 Stores benchmark results.
