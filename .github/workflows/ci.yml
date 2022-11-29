@@ -27,3 +27,6 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: output
+        repository-name: cz4rs.github.io
+        branch: master
+        token: ${{ secrets.API_TOKEN_GITHUB }}
