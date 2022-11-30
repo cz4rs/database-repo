@@ -1,4 +1,4 @@
-name: Generate graphs etc.
+name: Generate and deploy graphs
 
 on: push
 
